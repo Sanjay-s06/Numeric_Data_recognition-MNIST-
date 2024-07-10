@@ -1,1 +1,1 @@
-# Numeric_Data_recognition-MNIST-
+# Numeric_Data_recognition-MNIST
